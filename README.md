@@ -5,6 +5,7 @@ This repository contains the code used for the paper titled "Towards analysing t
 <div style="text-align:center">
     <img src="figures/goa_portions.png" alt="Go-Around Portions" width="50%" height="50%">
 </div>
+
 ## Installation
 
 To run this notebook, you need to have Python 3 installed on your system along with the following libraries:
