@@ -1,6 +1,6 @@
 # OSN Paper Code
 
-This repository contains the code used for the paper titled "Towards analysing the impact of Go-Around occurrences at the top European airports" that will be presented at the OpenSky Network Symposium 2023. 
+This repository contains the code used for the paper titled "Towards analysing the impact of Go-Around occurrences at the top European airports" that will be presented at the OpenSky Network Symposium 2023.
 
 <div style="text-align:center">
     <img src="figures/goa_portions.png" alt="Go-Around Portions" width="50%" height="50%">
@@ -26,7 +26,3 @@ To use this notebook, simply open it in Jupyter Notebook or JupyterLab and run t
 ## License
 
 This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-This code was written by [Author Name] for the OSN paper. We would like to thank [Acknowledgments] for their contributions to this work.
